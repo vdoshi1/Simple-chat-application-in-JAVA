@@ -4,8 +4,9 @@ Download executable server.jar on your Desktop. In order to connect to the serve
 
   java -jar server.jar
 
-Nothing will appear initially.
+Nothing will appear initially. Each time a client makes a connection it will print "Client connection successful" on the command line.
 
+-------------------------------------------------------------------------------------------------------------------------
 Connecting client to the server:
 
 Now on one of the machines on the same network, download client.jar on Desktop. Open command line and use cd to make Desktop as working directory and type:
